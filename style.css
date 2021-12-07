@@ -1,0 +1,8 @@
+html, body {
+  margin: 10;
+  padding: 0;
+  width: 800px;
+  height: 800px;
+  overflow: hidden;
+  background: #191970; 
+}
